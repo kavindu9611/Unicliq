@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">sanka2</string>
+    <string name="notice_id">Insert Notice ID</string>
+    <string name="notice_insert">Inset Notice</string>
+    <string name="notice_creat">CREATE NOTICE</string>
+
+    <string name="notice_search">NOTICE SEARCH</string>
+    <string name="notice_update">NOTICE UPDATE</string>
+    <string name="notice_delete">NOTICE DELETE</string>
+    <string name="notice_newinsert">NEW NOTICE INSERT</string>
+    <string name="home">MENUE</string>
+    <string name="noticeinsert">NOTICE INSERT</string>
+    <string name="paperinsert">PAPER INSERT</string>
+    <string name="courseinsert">COURSE DETAILS INSERT</string>
+    <string name="show_notice">SHOW NOTICE</string>
+    <string name="insert_paper">insert paper</string>
+    <string name="update_paper">UPDATE PAPER</string>
+    <string name="insert_paper_id">Insert Paper ID</string>
+    <string name="insert_paper_link">Insert Paper Link</string>
+    <string name="paper_search">PAPER SEARCH</string>
+    <string name="paper_update">PAPER UPDATE</string>
+    <string name="paper_delete">PAPER DELETE</string>
+    <string name="new_insert_paper">NEW INSERT PAPER</string>
+    <string name="submit">SUBMIT</string>
+    <string name="insert_course_free">INSERT COURSE FREE</string>
+    <string name="diploma">DIPLOMA</string>
+    <string name="hnda">HNDA</string>
+    <string name="insert_course_id">INSERT COURSE ID</string>
+    <string name="insert_course_name">INSERT COURSE NAME</string>
+    <string name="insert_course_duration">INSERT COURSE DURATION</string>
+    <string name="course_search">COURSE SEARCH</string>
+    <string name="course_update">COURSE UPDATE</string>
+    <string name="remove_course">REMOVE COURSE</string>
+    <string name="new_course_insert">NEW COURSE INSERT</string>
+    <string name="hjugj">hjugj</string>
+    <string name="madhu">madhu</string>
+</resources>
