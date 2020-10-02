@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MADCustomer</string>
+    <string name="Home" />
+    <string name="home">Home</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="register">Sign Up</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="update_profile">Exit</string>
+    <string name="profile">New Student</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="contactno">Contact No</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="search">Search</string>
+    <string name="edit">Update_Profile</string>
+    <string name="delete">Remove_Profile</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="users">Users</string>
+    <string name="loginhome">Welcome To UnicliQ</string>
+    <string name="rstudents">Registed Students</string>
+    <string name="mypro">My Profile</string>
+    <string name="libraries">Libraries</string>
+    <string name="supportservices">Support Services</string>
+    <string name="notification">Notification</string>
+    <string name="feedback">Feedback</string>
+    <string name="manageprofile">Manage Profile</string>
+    <string name="logout">Log Out</string>
+
+    <string name="des">Type Here</string>
+    <string name="addfd">Add Your Details</string>
+    <string name="notices">Notices</string>
+    <string name="spstname" />
+    <string name="spmdname" />
+    <string name="enterproblem">Ask Your Problems</string>
+    <string name="ssbtn">Submit</string>
+    <string name="module_">Enter Module</string>
+    <string name="feedback1">SEND FEEDBACK</string>
+</resources>

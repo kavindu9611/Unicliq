@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/login"
+    tools:context=".StudentProfile">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="244dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="200dp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="@string/mypro"
+        android:textColor="#05283A"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMA1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/roundedbtn"
+        android:drawableLeft="@drawable/ic_baseline_library_books_24"
+        android:fontFamily="serif"
+        android:padding="6dp"
+        android:text="@string/libraries"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMA2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/roundedbtn"
+        android:drawableLeft="@drawable/ic_baseline_notifications_active_24"
+        android:fontFamily="serif"
+        android:padding="6dp"
+        android:text="@string/notices"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMA3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/roundedbtn"
+        android:drawableLeft="@drawable/ic_baseline_feedback_24"
+        android:fontFamily="serif"
+        android:padding="6dp"
+        android:text="@string/feedback"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMA4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/roundedbtn"
+        android:drawableLeft="@drawable/ic_baseline_contact_support_24"
+        android:fontFamily="serif"
+        android:padding="6dp"
+        android:text="@string/supportservices"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMA5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/roundedbtn"
+        android:drawableLeft="@drawable/ic_baseline_settings_24"
+        android:fontFamily="serif"
+        android:padding="6dp"
+        android:text="@string/manageprofile"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnMA6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/roundedbtn"
+        android:drawableLeft="@drawable/ic_baseline_navigate_before_24"
+        android:fontFamily="serif"
+        android:padding="6dp"
+        android:text="@string/logout"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
