@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Uni_cliq</string>
+    <string name="hintmodulename">Please enter module name</string>
+    <string name="hintDescription">Please enter Date,Start Time and End Time</string>
+    <string name="hintvenue">Please Enter Venue</string>
+
+    <string name="Home" />
+    <string name="home">Home</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="profile">Profile</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="contactno">Contact No</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="search">Search</string>
+    <string name="edit">Update_Profile</string>
+    <string name="delete">Remove_Profile</string>
+    <string name="username1">User Name</string>
+    <string name="resultpage">Student Result</string>
+    <string name="studentresult">Student Result</string>
+    <string name="studentid">Please Enter Student RegNo :</string>
+    <string name="hintExamID">Please Enter Exam ID</string>
+    <string name="hintStudentName">Please Enter Student Name</string>
+    <string name="hintStudentNIC">Please Enter Student NIC</string>
+    <string name="hintModuleName">Please Enter Module Name</string>
+    <string name="hintStatus">Module Status</string>
+    <string name="hintStatusPass">PASS</string>
+    <string name="hintStatusFail">FAIL</string>
+    <string name="hintGrade">Please Enter Grade</string>
+    <string name="create_result">"ENTER RESULT "</string>
+    <string name="update_result">UPDATE RESULT</string>
+    <string name="result">Student Result Sheet</string>
+    <string name="editss">Edit Student Results</string>
+    <string name="editresult">Edit Result</string>
+    <string name="removeresult">Remove Result</string>
+    <string name="stdreg">Please enter student registration number</string>
+</resources>
