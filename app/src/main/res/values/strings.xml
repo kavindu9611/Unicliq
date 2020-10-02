@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestIT19139722</string>
+    <string name="home">Home</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="add">ADD</string>
+    <string name="update_profile">UPDATE</string>
+    <string name="profile_management">Profile Management</string>
+    <string name="dateOfBirth">Date Of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="search">Search</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="gender">Gender</string>
+
+
+</resources>

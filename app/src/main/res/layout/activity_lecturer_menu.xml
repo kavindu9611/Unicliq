@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/log"
+    android:orientation="vertical"
+    tools:context=".lecturerMenu">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="130dp"
+        android:text="MENU"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/menuLib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="LIBRARIES"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menNot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="NOTIFICATION"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menSupp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="SUPPORT SERVICES"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menLogReg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="LOGIN/REGISTER"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menEd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="EDIT PROFILE"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menPR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="PROFILE MANAGEMENT"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/menLOG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT"
+        android:textSize="18sp" />
+</LinearLayout>

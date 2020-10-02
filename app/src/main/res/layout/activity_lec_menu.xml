@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/log"
+    android:orientation="vertical"
+    tools:context=".lec_menu">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40sp"
+        android:layout_marginBottom="40sp"
+        android:text="MENU"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnLE1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="LIBRARIES"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/btnLE2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="NOTIFICATION"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/btnLE3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="SUPPORT SERVICES"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/btnLE4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="LOGIN/REGISTER"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/btnLE5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="EDIT PROFILE"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/btnLE6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="PROFILE"
+        android:textColor="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="TIMETABLE/RESULT" />
+
+    <Button
+        android:id="@+id/btnLE7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20sp"
+        android:background="#73FFFFFF"
+        android:text="LOGOUT"
+        android:textColor="@android:color/background_dark" />
+
+</LinearLayout>
